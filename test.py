@@ -1,1 +1,1 @@
-import pyjokes
+print("Hello World")
